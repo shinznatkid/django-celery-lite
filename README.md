@@ -26,3 +26,5 @@ Test Support Django >= 2.2.x
 |---------------|--------------------------------|
 | `celery`        | `python manage.py celery`        |
 | `celery worker` | `python manage.py celery worker` |
+| `celery beat` | `python manage.py celery beat` |
+| `celery ...` | `python manage.py celery ...` |
