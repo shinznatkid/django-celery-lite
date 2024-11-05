@@ -1,3 +1,9 @@
+# ⚠️ Deprecated
+
+**This repository is deprecated and no longer maintained.**  
+
+---
+
 # Django Celery Lite - Lite version for Django Celery
 
 [![Downloads](https://img.shields.io/travis/shinznatkid/django-celery-lite.svg)](https://travis-ci.org/shinznatkid/django-celery-lite/)
